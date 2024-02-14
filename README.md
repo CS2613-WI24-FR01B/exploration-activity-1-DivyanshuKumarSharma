@@ -1,4 +1,4 @@
-# Movie Information Retrieval using IMDb API and BeautifulSoup library
+# Using BeautifulSoup library to retrieve movie information
 
 ## 1. Which package/library does the sample program demonstrate?
    - The sample program demonstrates the usage of the BeautifulSoup library for web scraping IMDb search results.
